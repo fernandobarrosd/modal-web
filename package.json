@@ -1,0 +1,21 @@
+{
+  "name": "modal-web",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "repository": "https://github.com/fernandobarrosd/modal-web.git",
+  "author": "Fernando de Barros <fdebarros0910-2004@hotmail.com>",
+  "scripts": {
+    "start:dev": "vite",
+    "start": "vite preview",
+    "build": "vite build"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@fernandobarrosd/eslint-config-typescript": "^1.0.2",
+    "eslint": "^8.56.0",
+    "sass": "^1.70.0",
+    "typescript": "^5.3.3",
+    "vite": "^5.0.12"
+  }
+}
